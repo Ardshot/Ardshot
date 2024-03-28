@@ -1,4 +1,4 @@
-- 🚀 Fluent in HTML, CSS, JavaScript, and Python
+- 🚀 Fluent in HTML, CSS, JavaScript,C# and Python
 - 🔍 Passionate about cybersecurity and programming
 - 📚 Constantly learning and exploring new technologies
 - 💞️ I’m looking to collaborate on Apple
